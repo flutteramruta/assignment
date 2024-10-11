@@ -1,2 +1,2 @@
-fname="AG";
+fname="AAG";
 console.log(fname);
